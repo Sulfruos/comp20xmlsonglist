@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="songlist.css"?>
+<MyPlaylist>
+<song>
+  <name>Apple Pie</name>
+  <artist>Travis Scott</artist>
+  <year>2015</year>
+  <genre>Rap</genre>
+</song>
+<song>
+  <name>Long Time - Intro</name>
+  <artist>Playboi Carti</artist>
+  <year>2018</year>
+  <genre>Rap</genre>
+</song>
+<song>
+  <name>Skateboard P</name>
+  <artist>MadeinTYO</artist>
+  <year>2016</year>
+  <genre>Rap</genre>
+</song>
+<song>
+  <name>1Train</name>
+  <artist>A$AP Rocky, Kendrick Lamar, Joey Bada$$, Yelawolf, Danny Brown, Action Bronson, Big K.R.I.T</artist>
+  <year>2013</year>
+  <genre>Rap</genre>
+</song>
+<song>
+  <name>Marie Curie</name>
+  <artist>Pi'erre Bourne</artist>
+  <year>2018</year>
+  <genre>Rap</genre>
+</song>
+<song>
+  <name>Harder, Better, Faster, Stronger</name>
+  <artist>Daft Punk</artist>
+  <year>2001</year>
+  <genre>EDM</genre>
+</song>
+<song>
+  <name>Str8 Outta Mumbai</name>
+  <artist>Jai Paul</artist>
+  <year>2013</year>
+  <genre>Pop</genre>
+</song>
+<song>
+  <name>Oh My Dis Side</name>
+  <artist>Travis Scott</artist>
+  <year>2015</year>
+  <genre>Rap</genre>
+</song>
+<song>
+  <name>Pick Up the Phone</name>
+  <artist>Justin Huang</artist>
+  <year>2019</year>
+  <genre>Hip-Hop</genre>
+</song>
+<song>
+  <name>20 Min</name>
+  <artist>Lil Uzi Vert</artist>
+  <year>2017</year>
+  <genre>Rap</genre>
+</song>
+</MyPlaylist>
